@@ -5,4 +5,4 @@ db.produtos
     { $set: { ultimaModificacao: new Date() } });
 
 db.produtos
-  .find({ ultimaModificacao: { $exist: true } }, { nome: 1, _id: 0 });
+  .find({ ultimaModificacao: { $exists: true } }, { nome: 1, _id: 0 });
