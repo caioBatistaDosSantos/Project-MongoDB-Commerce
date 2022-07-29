@@ -2,4 +2,4 @@
 
 - Este projeto foi desenvolvido individualmente e têm a finalidade de fixar meus conhecimentos com MongoDB.
 
-- Contém "queries" que acessam um banco de dados simulado do MacDonald`s.
+- Contém "queries" que acessam um banco de dados simulado do McDonald`s.
